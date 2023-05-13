@@ -1,0 +1,13 @@
+C:\Users\Helios 300\source\repos\WindowsApp1\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\Helios 300\source\repos\WindowsApp1\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\Helios 300\source\repos\WindowsApp1\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\Helios 300\source\repos\WindowsApp1\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\Helios 300\source\repos\WindowsApp1\WindowsApp2\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\Users\Helios 300\source\repos\WindowsApp1\WindowsApp2\obj\Debug\WindowsApp2.frmLogin.resources
+C:\Users\Helios 300\source\repos\WindowsApp1\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Helios 300\source\repos\WindowsApp1\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\Helios 300\source\repos\WindowsApp1\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\Helios 300\source\repos\WindowsApp1\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\Helios 300\source\repos\WindowsApp1\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\Helios 300\source\repos\WindowsApp1\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\Helios 300\source\repos\WindowsApp1\WindowsApp2\obj\Debug\WindowsApp2.frmRegistroVehicular.resources
